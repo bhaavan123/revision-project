@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+	background-image: linear-gradient(blue,aqua,green,lime,yellow);
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	border: 7px purple ridge;
+}
+h3{
+	background-color: white;
+	color:red;
+	font-weight: bolder;
+	font-size: 35px;
+	font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop P One', sans-serif;
+font-family: 'The Nautigal', cursive;
+}
